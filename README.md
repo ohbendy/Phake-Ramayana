@@ -1,4 +1,4 @@
-# Phake Ramayana
+# Phake Ramayana Unicode font
 
 This repo contains **Phake Ramayana Unicode** font and a log of the issues discussed in its production.
 

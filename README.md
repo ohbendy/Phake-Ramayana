@@ -22,4 +22,5 @@ It is based on a non-Unicode version created by Stephen Morey between 1997 and 2
 
 ### Character set ###
 
-![Screenshot 2021-09-30 at 10 23 15](https://user-images.githubusercontent.com/12471463/135425814-9323aa52-154e-4c15-847a-3937774a8aa2.png)
+![Screenshot 2021-09-30 at 10 25 42](https://user-images.githubusercontent.com/12471463/135426166-50bfb466-bb24-46c6-9f3f-0d5b595a4459.png)
+

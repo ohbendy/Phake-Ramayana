@@ -27,5 +27,8 @@ We plan to open-source this once we're satisfied the glyph shapes and behaviour 
 (Click to enlarge)
 ![Screenshot 2021-09-30 at 11 09 18](https://user-images.githubusercontent.com/12471463/135436304-1517c5fa-3a52-46e6-84bf-0867987a20cd.png)
 
+---
 
+### Versions ###
+29-05-24 v0.3 Added ligature of medialYa_iMark and an alternate .narrow version when followed by narrow consonants with a mark above. Some spacing and positioning adjustments. Added narrow version of aiMark-aiton to avoid certain collisions.
 

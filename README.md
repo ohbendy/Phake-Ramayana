@@ -32,4 +32,6 @@ We plan to open-source this once we're satisfied the glyph shapes and behaviour 
 ### Changelog ###
 29-05-24 v0.3 Added ligature of medialYa_iMark and an alternate .narrow version when followed by narrow consonants with a mark above. Some spacing and positioning adjustments. Added narrow version of aiMark-aiton to avoid certain collisions.
 
-30-05-24 v0.4  Added some more Burmese characters. Alternate forms of some letters in Khamyang style. A couple of new ligatures.
+30-05-24 v0.4 Added some more Burmese characters. Alternate forms of some letters in Khamyang style. A couple of new ligatures.
+
+02-06-24 v0.5 Added basic character set for Burmese (lacking subjoined consonants and contextual kerning). Burmese forms and Khamyang forms now accessible via stylistic sets, or using OT language tags (using KHYG for Khamyang until an official tag is registered). Some small adjustments to default glyphs.

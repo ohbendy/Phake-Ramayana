@@ -38,4 +38,4 @@ We plan to open-source this once we're satisfied the glyph shapes and behaviour 
 
 03-06-24 v0.501 Added a few more alternates for the Burmese medialRa, fixed the Khamyang subjoined letters, increased the size of the flower ornaments. Various other small tweaks.
 
-23-01-25 v0.502 Disabled the LOCL feature as LibreOffice and Word seem to automatically tag text containing Myanmar characters as Burmese language and call the Burmese LOCL feature, even when the user has not been allowed to select the language. 
+23-01-25 v0.502 Disabled the LOCL feature as LibreOffice and Word seem to automatically tag text containing Myanmar characters as Burmese language and call the Burmese LOCL feature, even when the user has not been allowed to select the language. Updated Khamyang OT language tag to newly registered `KSU`.

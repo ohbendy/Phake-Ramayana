@@ -37,3 +37,5 @@ We plan to open-source this once we're satisfied the glyph shapes and behaviour 
 02-06-24 v0.5 Added basic character set for Burmese (lacking subjoined consonants and contextual kerning). Burmese forms and Khamyang forms now accessible via stylistic sets, or using OT language tags (using KHYG for Khamyang until an official tag is registered). Some small adjustments to default glyphs.
 
 03-06-24 v0.501 Added a few more alternates for the Burmese medialRa, fixed the Khamyang subjoined letters, increased the size of the flower ornaments. Various other small tweaks.
+
+23-01-25 v0.502 Disabled the LOCL feature as LibreOffice and Word seem to automatically tag text containing Myanmar characters as Burmese language and call the Burmese LOCL feature, even when the user has not been allowed to select the language. 
